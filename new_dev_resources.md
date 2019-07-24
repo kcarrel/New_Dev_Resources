@@ -1,3 +1,6 @@
+# New Dev Resources
+A list of resources for aspiring or new developers to reference
+
 # Free Tutorials
 - [TheOdinProject](https://www.theodinproject.com/courses)
 - [FreeCodeCamp](http://freecodecamp.com/)
