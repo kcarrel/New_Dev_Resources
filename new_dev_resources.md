@@ -1,4 +1,4 @@
-# Tutorials
+# Free Tutorials
 - [TheOdinProject](https://www.theodinproject.com/courses)
 - [FreeCodeCamp](http://freecodecamp.com/)
 - [CodeAcademy](https://www.codecademy.com/)
@@ -29,6 +29,27 @@ Note: Be wary of [tutorial purgatory](https://dev.to/tonymastrorio/escaping-tuto
 - [Netlify](https://www.netlify.com/)
 - [Firebase](https://firebase.google.com/docs/hosting)
 
+
+# Blogs
+- [Base.Cs Blog - Computer Science basics](https://medium.com/basecs)
+- [CodeNewbie](https://www.codenewbie.org/)
+
+
+# Get Help!
+- [StackOverflow - Ask code questions!](https://stackoverflow.com/)
+- [r/CS_Questions](https://www.reddit.com/r/CS_Questions/)
+- Give Tech Twitter a shot!  
+
+# Research Tech
+- [StackShare - See reviews of different tech stacks ](https://stackshare.io/)
+
+# News
+- [HackerNews](https://news.ycombinator.com/news)
+
+# Connect Offline
+- [Meetups - Connect with a programming community!](https://www.meetup.com/)
+
+
 # Women in Tech Networks
 - [She's Coding](https://shescoding.org/about)
 - [Elpha](https://elpha.com/top)
@@ -43,10 +64,8 @@ The below podcasts have helped me immensely with building confidence as a new pr
 - [CodeNewbie](https://www.codenewbie.org/podcast)
 - [Her Stem Story](https://herstemstory.com/)
 
-# Miscellaneous
-- [Base.Cs Blog - Computer Science basics](https://medium.com/basecs)
-- [StackOverflow - Ask code questions!](https://stackoverflow.com/)
-- [StackShare - See reviews of different tech stacks ](https://stackshare.io/)
-- [CodeNewbie](https://www.codenewbie.org/)
-- [Meetups - Connect with a programming community!](https://www.meetup.com/)
-- [HackerNews](https://news.ycombinator.com/news)
+# Subreddits
+- [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+- [r/programming](https://www.reddit.com/r/programming/)
+- [Fit in with your fellow devs with sweet, sweet programmer memes](https://www.reddit.com/r/ProgrammerHumor/)
+- [r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/)
