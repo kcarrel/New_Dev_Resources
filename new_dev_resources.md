@@ -35,20 +35,19 @@ Note: Be wary of [tutorial purgatory](https://dev.to/tonymastrorio/escaping-tuto
 - [CodeNewbie](https://www.codenewbie.org/)
 
 
-# Get Help!
+# Running into an error? Get Help!
+- Check out the documentation for the language/framework you are using! Sometimes that can help you catch a syntax/spelling issue that you missed on first inspection.
 - [StackOverflow - Ask code questions!](https://stackoverflow.com/)
+- [r/AskProgramming](https://www.reddit.com/r/AskProgramming/)
 - [r/CS_Questions](https://www.reddit.com/r/CS_Questions/)
-- Give Tech Twitter a shot!  
+- Give Tech Twitter a shot! More often than not people are willing to take a few minutes to help out someone who wants to learn.
+
 
 # Research Tech
+It is easy to get shiny eye syndrome when you are starting out with programming and get overwhelmed by everything you are interested in dabbling in. Research what might be the most valuable investment for your time + goals!
 - [StackShare - See reviews of different tech stacks ](https://stackshare.io/)
-
-# News
-- [HackerNews](https://news.ycombinator.com/news)
-
-# Connect Offline
-- [Meetups - Connect with a programming community!](https://www.meetup.com/)
-
+- [State of the Octoverse](https://octoverse.github.com/)
+- [Popularity of Programming Language Index](http://pypl.github.io/PYPL.html)
 
 # Women in Tech Networks
 - [She's Coding](https://shescoding.org/about)
@@ -69,3 +68,7 @@ The below podcasts have helped me immensely with building confidence as a new pr
 - [r/programming](https://www.reddit.com/r/programming/)
 - [Fit in with your fellow devs with sweet, sweet programmer memes](https://www.reddit.com/r/ProgrammerHumor/)
 - [r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/)
+
+# Misc
+- [Meetups - Connect with a programming community!](https://www.meetup.com/)
+- [HackerNews](https://news.ycombinator.com/news)
